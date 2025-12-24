@@ -1,0 +1,5 @@
+{
+  "name": "City Guesser",
+  "description": "A trivia game where you guess the city based on AI-generated city imagery. Test your geography knowledge in multiple modes.",
+  "requestFramePermissions": []
+}
